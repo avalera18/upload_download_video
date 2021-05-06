@@ -1,0 +1,15 @@
+{
+    "name": "freesound",
+    "version": "0.0.3",
+    "description": "Javascript wrapper of the Freesound API",
+    "main": "freesound.js",
+    "author": "",
+    "keywords": ["freesound", "audio", "api"],
+    "repository" : {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "web-audio-api": "*"
+    }
+}
